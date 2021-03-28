@@ -10,7 +10,7 @@
                 .toUriString(); // construção da url
   ```
   
-* Exemplo retirado do projeto [spring-boot-multipartfile-sample]()
+* Exemplo retirado do projeto [spring-boot-multipartfile-sample](https://github.com/ImGabreuw/spring-boot-multipartfile-sample)
 
   ```java
   public static FileDTO of(MultipartFile file) {
