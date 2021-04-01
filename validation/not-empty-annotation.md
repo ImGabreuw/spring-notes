@@ -2,7 +2,7 @@
 
 ### Para que serve?
 
-* Validar um atributo de um objeto
+* Validar um atributo para que não seja vazio
 * OBS: por convenção essas validações são feitas nos objetos [DTO](https://pt.stackoverflow.com/questions/31362/o-que-%C3%A9-um-dto)
 
 ---
