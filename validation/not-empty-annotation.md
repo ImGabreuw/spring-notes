@@ -11,6 +11,8 @@
 
 * message = definir uma messagem quando essa regra for descumprida
 
+---
+
 ### Como usar?
 
 * Basta colocar essa anotação no campo do objeto onde seja necessário a validação
