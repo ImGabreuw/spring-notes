@@ -61,3 +61,7 @@
 
 * Mais segurança na API.
 * Facilita a vida de quem for usar a API.
+
+### Tutoriais 
+
+* [![](http://img.youtube.com/vi/PzK4ZXa2Tbc/maxresdefault.jpg)](https://www.youtube.com/watch?v=PzK4ZXa2Tbc)
