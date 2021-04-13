@@ -5,3 +5,4 @@
 * [sample-quarkus-microservices-consul](https://github.com/piomin/sample-quarkus-microservices-consul)
 * [spring-boot-dropbox-example](https://github.com/indra818/spring-boot-dropbox-example)
 * [spring-native](https://github.com/spring-projects-experimental/spring-native)
+* [springboot-jwt-starter](https://github.com/bfwg/springboot-jwt-starter)
