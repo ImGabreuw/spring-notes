@@ -6,3 +6,4 @@
 * [spring-boot-dropbox-example](https://github.com/indra818/spring-boot-dropbox-example)
 * [spring-native](https://github.com/spring-projects-experimental/spring-native)
 * [springboot-jwt-starter](https://github.com/bfwg/springboot-jwt-starter)
+* [EcommerceSpringMicro-Servico](https://github.com/LucasCapSilva/EcommerceSpringMicro-Servico)
