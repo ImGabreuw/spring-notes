@@ -8,3 +8,4 @@
 * [springboot-jwt-starter](https://github.com/bfwg/springboot-jwt-starter)
 * [EcommerceSpringMicro-Servico](https://github.com/LucasCapSilva/EcommerceSpringMicro-Servico)
 * [gs-multi-module](https://github.com/spring-guides/gs-multi-module)
+* [spring5-mvc-rest](https://github.com/springframeworkguru/spring5-mvc-rest)
