@@ -9,3 +9,4 @@
 * [EcommerceSpringMicro-Servico](https://github.com/LucasCapSilva/EcommerceSpringMicro-Servico)
 * [gs-multi-module](https://github.com/spring-guides/gs-multi-module)
 * [spring5-mvc-rest](https://github.com/springframeworkguru/spring5-mvc-rest)
+* [spring-ecosystem](https://github.com/gil-son/spring-ecosystem)
