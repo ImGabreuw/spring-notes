@@ -11,3 +11,4 @@
 * [spring5-mvc-rest](https://github.com/springframeworkguru/spring5-mvc-rest)
 * [spring-ecosystem](https://github.com/gil-son/spring-ecosystem)
 * [clines-api](https://github.com/rcaneppele/clines-api)
+* [orange-talents-03-template-proposta](https://github.com/bentoco/orange-talents-03-template-proposta)
