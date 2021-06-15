@@ -14,3 +14,4 @@
 * [orange-talents-03-template-proposta](https://github.com/bentoco/orange-talents-03-template-proposta)
 * [beer_api_digital_innovation_one](https://github.com/rpeleias/beer_api_digital_innovation_one)
 * [awesome-spring-boot](https://github.com/stunstunstun/awesome-spring-boot)
+* [awesome-spring](https://github.com/ThomasVitale/awesome-spring)
